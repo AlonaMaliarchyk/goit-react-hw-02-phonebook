@@ -1,0 +1,19 @@
+.input {
+    margin: 10px;
+}
+
+.addBtn {
+    border-radius: 9px;
+    font-size: 12px;
+    padding: 7px 11px;
+    background-color: white;
+    color: black;
+    border: 1px solid #09e887;
+    transition-duration: 0.4s;
+    color: #09e887;
+}
+
+.addBtn:hover {
+    background-color: #09e887;
+    color: white;
+}
